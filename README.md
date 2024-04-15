@@ -29,4 +29,4 @@
 
 
 ## RCA Document
-[doc](assets/TanushreeA-Fundamentals of SRE post-mortem.docx)
+[Document](https://github.com/aggarwal-tanushree/sre-week-two/blob/e5e0ecbbfb40203b502030f3518e1ab2457e1e85/assets/TanushreeA-Fundamentals%20of%20SRE%20post-mortem.docx)
